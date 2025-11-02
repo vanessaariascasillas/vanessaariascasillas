@@ -38,7 +38,7 @@ I’m a multi-passionate academic and tech strategist working at the crossroads 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vanessaariascasillas/)  
 - 📧 Email: [vanessa.casillas@cmc.edu](mailto:vanessa.casillas@cmc.edu)  
-- 🌐 [https://vanessaariascasillas.wordpress.com/](https://vanessaariascasillas.wordpress.com/)
+- 🌐 [https://vanessaariascasillas.github.io/](https://vanessaariascasillas.github.io/)]
 
 ---
 
